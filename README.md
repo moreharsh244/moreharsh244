@@ -14,17 +14,19 @@
 ---
 
 ### 🧬 Digital Persona
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 GenAI & Data Science</h4>
-      <p>I am deep-diving into <b>Transformers</b> and <b>Large Language Models</b>. I specialize in turning raw data into conversational intelligence using <b>LangChain</b> and <b>Python</b>.</p>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3bm95amZ4eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/gpIEHM2iMV8K4/giphy.gif" width="200" alt="Optimus Prime Transform">
     </td>
-    <td width="50%" valign="top">
+    <td width="65%" valign="top">
+      <h4>🤖 GenAI & Data Science (The Matrix of Leadership)</h4>
+      <p>Just as Optimus Prime leads the Autobots, I am deep-diving into <b>Transformers</b> and <b>Large Language Models</b> to lead raw data into conversational intelligence. I specialize in <b>LangChain</b> and <b>Python</b> to build the future of AI.</p>
+      <hr>
       <h4>🏏 Beyond the Code</h4>
       <ul>
-        <li><b>Learning:</b> Mastering RAG architectures.</li>
-        <li><b>Hobbies:</b> Analyzing cricket match metrics.</li>
+        <li><b>Learning:</b> Mastering RAG architectures and Neural Networks.</li>
+        <li><b>Hobbies:</b> Analyzing cricket match metrics & strategic play.</li>
         <li><b>Philosophy:</b> "Continuous evolution through code."</li>
       </ul>
     </td>
@@ -72,4 +74,8 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
+
+<p align="center">
+  <i>"Fate rarely calls upon us at a moment of our choosing." — Optimus Prime</i>
 </p>
