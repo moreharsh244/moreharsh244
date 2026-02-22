@@ -1,4 +1,5 @@
-<img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=2000&auto=format&fit=crop" alt="MasterHead" width="100%">
+![MasterHead](https://user-images.githubusercontent.com/40739871/218845073-320f6a91-03a3-447e-a887-067fd6f9a91b.png)
+
 
 <h1 align="center">Hello! <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" width="65"> I'm Harsh More</h1>
 <h3 align="center">I turn raw data into conversational intelligence. Passionate about problem-solving, exploring GenAI, and building innovative digital solutions.</h3>
