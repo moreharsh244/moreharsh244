@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?q=80&w=2560&auto=format&fit=crop" alt="Developer Setup Hero" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
+  <img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=2560&auto=format&fit=crop" alt="Aesthetic Developer Setup" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 
   <a href="https://github.com/moreharsh244">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Hello!+I'm+Harsh+More+🔥;Turning+raw+data+into+conversational+intelligence;Passionate+about+GenAI,+LLMs+%26+Data+Science;Building+innovative+digital+solutions..." alt="Typing SVG" />
