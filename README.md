@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=2000&auto=format&fit=crop" alt="MasterHead" width="100%">
 
-<h1 align="center">Hello! <img src="https://media1.tenor.com/m/3rS04kXN2qAAAAAd/optimus-prime-transformers.gif" width="70" style="border-radius: 5px;"> I'm Harsh More</h1>
+<h1 align="center">Hello! <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" width="65"> I'm Harsh More</h1>
 <h3 align="center">I turn raw data into conversational intelligence. Passionate about problem-solving, exploring GenAI, and building innovative digital solutions.</h3>
 
 <p align="center">
@@ -22,8 +22,8 @@
 ### 👨‍💻 About Me:
 - 🌍 Based in **Thane, Maharashtra, India**
 - 🎓 BScIT Scholar at **University of Mumbai**
-- 🌱 Currently mastering **Transformers (the AI kind!)**, **LLMs**, and **Data Science**
-- 👯 Open to collaborating on **Generative AI applications** and robust backend systems
+- 🌱 Currently mastering **Generative AI**, **LLMs**, and **Data Science**
+- 👯 Open to collaborating on **AI applications** and robust backend systems
 - 👨‍💻 Check out my repositories at [**GitHub**](https://github.com/moreharsh244)
 - 💬 Ask me about **Python, RAG Architectures, SQL, or UI aesthetics**
 - 📫 Reach me at **moreharsh244@gmail.com**
@@ -60,4 +60,29 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moreharsh244&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=moreharsh244&show_icons=true&locale=en&theme=tokyonight" alt="Harsh's GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moreharsh244&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🚀 Latest Projects:
+Here are a few projects I've been actively developing:
+1. **🖥️ SSS Services** - A comprehensive hardware e-commerce platform featuring a custom PC builder, parts marketplace, and service support modules. 
+2. **🎨 Dynamic Interface Designs** - Crafting highly interactive, visually appealing web interfaces with vintage and modern aesthetics.
+
+---
+
+### 🏏 Beyond the Code:
+When I'm not training data models or debugging Python scripts, you can usually find me keeping up with cricket, planning out digital content, or searching for the perfect Pinterest-inspired design inspiration for my next UI project. Let's connect and build something amazing!
+
+---
+
+<p align="center"><i>Thank you for visiting my profile! 😊</i></p>
