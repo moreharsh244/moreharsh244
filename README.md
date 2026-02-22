@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=2000&auto=format&fit=crop" alt="MasterHead" width="100%">
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2000&auto=format&fit=crop" alt="Software Developer MasterHead" width="100%">
 
 <h1 align="center">Hello! <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" width="65"> I'm Harsh More</h1>
 <h3 align="center">I turn raw data into conversational intelligence. Passionate about problem-solving, exploring GenAI, and building innovative digital solutions.</h3>
@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="AI Coding GIF" width="400"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="AI Coding GIF" width="400"/>
 
 ### 👨‍💻 About Me:
 - 🌍 Based in **Thane, Maharashtra, India**
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moreharsh244&theme=tokyonight" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=moreharsh244&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
