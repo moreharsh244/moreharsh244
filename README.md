@@ -1,88 +1,84 @@
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2000&auto=format&fit=crop" alt="Software Developer MasterHead" width="100%">
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?q=80&w=2560&auto=format&fit=crop" alt="Developer Setup Hero" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 
-<h1 align="center">Hello! <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" width="65"> I'm Harsh More</h1>
-<h3 align="center">I turn raw data into conversational intelligence. Passionate about problem-solving, exploring GenAI, and building innovative digital solutions.</h3>
+  <a href="https://github.com/moreharsh244">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Hello!+I'm+Harsh+More+🔥;Turning+raw+data+into+conversational+intelligence;Passionate+about+GenAI,+LLMs+%26+Data+Science;Building+innovative+digital+solutions..." alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/moreharsh244?tab=repositories">
-    <img src="https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Projects-1E1E2E?style=for-the-badge&logo=github&logoColor=A970FF" alt="Projects" />
   </a>
   <a href="https://linkedin.com/in/moreharsh244" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" />
   </a>
   <a href="mailto:moreharsh244@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
   </a>
 </p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="AI Coding GIF" width="400"/>
-
-### 👨‍💻 About Me:
-- 🌍 Based in **Thane, Maharashtra, India**
-- 🎓 BScIT Scholar at **University of Mumbai**
-- 🌱 Currently mastering **Generative AI**, **LLMs**, and **Data Science**
-- 👯 Open to collaborating on **AI applications** and robust backend systems
-- 👨‍💻 Check out my repositories at [**GitHub**](https://github.com/moreharsh244)
-- 💬 Ask me about **Python, RAG Architectures, SQL, or UI aesthetics**
-- 📫 Reach me at **moreharsh244@gmail.com**
-- ⚡ Fun fact: **When I'm not debugging code, I'm analyzing cricket match metrics!** 🏏
-
----
-
-### 💼 Professional Skills:
-<p align="left">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 About Me:</h3>
+      <ul>
+        <li>🌍 Based in <b>Thane, Maharashtra, India</b></li>
+        <li>🎓 BScIT Scholar at <b>University of Mumbai</b></li>
+        <li>🌱 Currently mastering <b>Generative AI, LLMs, and Data Science</b></li>
+        <li>🚀 Building <b>SSS Services</b> (Hardware E-commerce & PC Builder)</li>
+        <li>📹 Planning <b>Little Explorer</b> (Educational content for kids)</li>
+        <li>💬 Ask me about: <b>Python, RAG Architectures, SQL, or UI Aesthetics</b></li>
+        <li>📫 Reach me at: <b><a href="mailto:moreharsh244@gmail.com">moreharsh244@gmail.com</a></b></li>
+        <li>⚡ Fun fact: <b>When I'm not debugging code or designing interfaces, I'm analyzing cricket match metrics! 🏏</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="90%" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
-    <a href="https://linkedin.com/in/moreharsh244" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:moreharsh244@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
-
----
-
-### 📈 GitHub Stats:
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moreharsh244&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,pandas,mysql,html,css,git,github,vscode,figma&theme=dark" alt="Tech Stack Icons" />
+  </a>
 </p>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=moreharsh244&show_icons=true&locale=en&theme=tokyonight" alt="Harsh's GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=moreharsh244&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ---
 
-### 🚀 Latest Projects:
-Here are a few projects I've been actively developing:
-1. **🖥️ SSS Services** - A comprehensive hardware e-commerce platform featuring a custom PC builder, parts marketplace, and service support modules. 
-2. **🎨 Dynamic Interface Designs** - Crafting highly interactive, visually appealing web interfaces with vintage and modern aesthetics.
+<h3 align="center">📈 GitHub Analytics</h3>
+<div align="center">
+  <table width="100%" border="0" align="center">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=moreharsh244&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Harsh's GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreharsh244&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://streak-stats.demolab.com/?user=moreharsh244&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" width="70%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🏏 Beyond the Code:
-When I'm not training data models or debugging Python scripts, you can usually find me keeping up with cricket, planning out digital content, or searching for the perfect Pinterest-inspired design inspiration for my next UI project. Let's connect and build something amazing!
-
----
-
-<p align="center"><i>Thank you for visiting my profile! 😊</i></p>
+<div align="center">
+  <i>Designing interactive web interfaces with vintage aesthetics and powering them with modern AI.</i><br><br>
+  <img src="https://komarev.com/ghpvc/?username=moreharsh244&color=A970FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
