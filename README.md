@@ -1,113 +1,63 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffea&height=250&section=header&text=HARSH%20MORE&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Generative%20AI%20&%20Data%20Science%20Enthusiast&descAlignY=70&descAlign=50" />
-</p>
+<img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=2000&auto=format&fit=crop" alt="MasterHead" width="100%">
+
+<h1 align="center">Hello! <img src="https://media1.tenor.com/m/3rS04kXN2qAAAAAd/optimus-prime-transformers.gif" width="70" style="border-radius: 5px;"> I'm Harsh More</h1>
+<h3 align="center">I turn raw data into conversational intelligence. Passionate about problem-solving, exploring GenAI, and building innovative digital solutions.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=BScIT+Scholar;Generative+AI+%26+Data+Science;Core+Java+%26+Python+Developer;Cricket+Enthusiast+🏏" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/moreharsh244">
-    <img src="https://img.shields.io/badge/Focus-Generative_AI-black?style=for-the-badge&logo=openai&logoColor=00ffea" />
+  <a href="https://github.com/moreharsh244?tab=repositories">
+    <img src="https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/moreharsh244">
-    <img src="https://img.shields.io/badge/Language-Python-black?style=for-the-badge&logo=python&logoColor=00ffea" />
+  <a href="https://linkedin.com/in/moreharsh244" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🧬 Digital Persona
-
-I am a BScIT student diving deep into the intersection of data and artificial intelligence. I specialize in turning raw data into conversational intelligence using Python, and I am constantly exploring the evolving landscape of LLMs and Transformers. 
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Tech Focus</h4>
-      <ul>
-        <li><b>GenAI:</b> Building and mastering RAG architectures.</li>
-        <li><b>Data Science:</b> Leveraging Pandas, NumPy, and SQL for deep analytics.</li>
-        <li><b>Backend:</b> Crafting robust logic with Python and Core Java.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏏 Beyond the Code</h4>
-      <ul>
-        <li><b>Philosophy:</b> "Continuous evolution through code."</li>
-        <li><b>Interests:</b> When I'm not debugging, I'm analyzing cricket match metrics or designing visually attractive digital interfaces.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ SSS Services</h3>
-      <p align="center"><b>Hardware E-commerce & PC Builder</b></p>
-      <p>A comprehensive web platform designed for tech enthusiasts. Features a custom PC builder, a seamless marketplace for selling PC parts, and integrated service support modules.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✂️ Salon Booking System</h3>
-      <p align="center"><b>Appointment & Resource Management</b></p>
-      <p>A streamlined digital solution built to handle appointment scheduling, client management, and efficient resource allocation for salon businesses.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Specialized Arsenal 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,git,github,vscode,pycharm&theme=dark" />
+  <a href="mailto:moreharsh244@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Transformers-Enabled-blueviolet?style=flat-square&logo=huggingface" />
-  <img src="https://img.shields.io/badge/Data_Science-Pandas%2FNumPy-green?style=flat-square&logo=pandas" />
-  <img src="https://img.shields.io/badge/Database-SQL_Expert-orange?style=flat-square&logo=mysql" />
+---
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="AI Coding GIF" width="400"/>
+
+### 👨‍💻 About Me:
+- 🌍 Based in **Thane, Maharashtra, India**
+- 🎓 BScIT Scholar at **University of Mumbai**
+- 🌱 Currently mastering **Transformers (the AI kind!)**, **LLMs**, and **Data Science**
+- 👯 Open to collaborating on **Generative AI applications** and robust backend systems
+- 👨‍💻 Check out my repositories at [**GitHub**](https://github.com/moreharsh244)
+- 💬 Ask me about **Python, RAG Architectures, SQL, or UI aesthetics**
+- 📫 Reach me at **moreharsh244@gmail.com**
+- ⚡ Fun fact: **When I'm not debugging code, I'm analyzing cricket match metrics!** 🏏
+
+---
+
+### 💼 Professional Skills:
+<p align="left">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📊 Real-Time Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moreharsh244&show_icons=true&theme=neon&border_color=00ffea&bg_color=000000&border_radius=15&title_color=00ffea" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreharsh244&layout=compact&theme=neon&border_color=00ffea&bg_color=000000&border_radius=15&title_color=00ffea" alt="Langs" height="180" />
+### 🌐 Connect with Me:
+<p align="left">
+    <a href="https://linkedin.com/in/moreharsh244" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:moreharsh244@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </p>
 
 ---
 
-### 🐍 Contribution Activity
-
+### 📈 GitHub Stats:
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moreharsh244/moreharsh244/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moreharsh244/moreharsh244/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moreharsh244/moreharsh244/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-### 🤝 Connect with the Architect
-
-<p align="center">
-  <a href="mailto:moreharsh244@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/moreharsh244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</p>
+    <img src="https://github-readme-stats.
