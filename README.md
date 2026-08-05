@@ -70,9 +70,13 @@
 
 ### 📈 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moreharsh244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moreharsh244&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moreharsh244&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreharsh244&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 </p>
 
 ---
