@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moreharsh244&theme=radical&hide_border=true&show_icons=true&cache_seconds=86400" alt="GitHub Stats Card" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=moreharsh244&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats Card" />
 </p>
 
 ---
