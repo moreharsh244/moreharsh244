@@ -79,8 +79,18 @@
 
 ### 🚀 Latest Projects:
 Here are a few projects I've been actively developing:
-1. **🖥️ SSS Services** - A comprehensive hardware e-commerce platform featuring a custom PC builder, parts marketplace, and service support modules. 
-2. **🎨 Dynamic Interface Designs** - Crafting highly interactive, visually appealing web interfaces with vintage and modern aesthetics.
+1. 🤖 **Smart Toll AI Agent System** — An AI-powered toll enforcement agent built on a 
+   RAG architecture using FastAPI, LlamaIndex, ChromaDB, and Google Gemini. Processes 
+   vehicle telemetry CSV logs, intelligently interprets traffic laws via LLM, and 
+   auto-generates fine deduction reports through a Streamlit dashboard.
+
+2. 📊 **Credit Risk Analysis** — A predictive credit risk assessment model built with 
+   Python, Pandas, and Scikit-learn's Logistic Regression, classifying loan default 
+   risk and computing actionable risk probabilities to streamline loan approvals.
+
+3. 🏥 **Healthcare Premium Predictor** — A predictive analytics tool built with Python 
+   and NumPy, implementing linear regression from scratch to forecast healthcare 
+   premiums based on applicant age.
 
 ---
 
