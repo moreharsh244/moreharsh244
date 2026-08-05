@@ -5,17 +5,16 @@
 <h3 align="center">I turn raw data into conversational intelligence. Passionate about problem-solving, exploring GenAI, and building innovative digital solutions.</h3>
 
 <p align="center">
-  <a href="https://github.com/moreharsh244?tab=repositories">
-    <img src="https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/moreharsh244" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:moreharsh244@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/moreharsh244?tab=repositories" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/moreharsh244" target="blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:moreharsh244@gmail.com" target="blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 ---
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="AI Coding GIF" width="380"/>
 
