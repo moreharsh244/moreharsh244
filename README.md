@@ -70,18 +70,11 @@
 
 ### 📈 GitHub Stats:
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=moreharsh244&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreharsh244&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
-</p>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=moreharsh244&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=moreharsh244&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=moreharsh244&theme=radical&hide_border=true" width="90%" alt="Contribution Graph"/>
