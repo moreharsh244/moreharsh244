@@ -8,10 +8,10 @@
   <a href="https://github.com/moreharsh244?tab=repositories">
     <img src="https://img.shields.io/badge/-Projects-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/moreharsh244" target="_blank">
+  <a href="https://linkedin.com/in/moreharsh244" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:moreharsh244@gmail.com" target="_blank">
+  <a href="mailto:moreharsh244@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
