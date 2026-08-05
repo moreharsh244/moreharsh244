@@ -18,18 +18,16 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="AI Coding GIF" width="400"/>
-
-### 👨‍💻 About Me:
-- 🌍 Based in **Thane, Maharashtra, India**
-- 🎓 BScIT Scholar at **University of Mumbai**
-- 🌱 Currently mastering **Generative AI**, **LLMs**, and **Data Science**
-- 👯 Open to collaborating on **AI applications** and robust backend systems
-- 👨‍💻 Check out my repositories at [**GitHub**](https://github.com/moreharsh244)
-- 💬 Ask me about **Python, RAG Architectures, SQL, or UI aesthetics**
-- 📫 Reach me at **moreharsh244@gmail.com**
-- ⚡ Fun fact: **When I'm not debugging code, I'm analyzing cricket match metrics!** 🏏
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="AI Coding GIF" width="380"/>
+👨‍💻 About Me
+🎓 Currently pursuing an MSc in Data Science and Artificial Intelligence
+🌍 Based in Thane, Maharashtra, India
+🌱 Focused on Machine Learning, Deep Learning, and Generative AI (LLMs, RAG architectures)
+🔬 Interested in applying data-driven methods to solve real-world problems
+👯 Open to collaborating on AI/ML applications, research projects, and backend systems
+👨‍💻 Explore my work on GitHub
+💬 Happy to discuss Python, Machine Learning, RAG Architectures, SQL, or Data Visualization
+📫 Reach me at moreharsh244@gmail.com
 ---
 
 ### 💼 Professional Skills:
